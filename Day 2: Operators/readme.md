@@ -4,3 +4,5 @@
 풀이
 - 문제 예시 처럼 tax_percent에 /100을 하면 int이기 때문에 소수점 뒷자리가 무시되어서 값이 다르게 나온다.
 유의해서 meal_cost에 /100해서 문제 해결
+
+![image](https://github.com/GreatJang/HackerRank-JAVA/assets/148752498/d38109ce-dc94-478b-abc5-ca00204348d4)
